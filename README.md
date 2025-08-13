@@ -1,4 +1,4 @@
-# 📔 Documentação: Configuração de Infraestrutura Web com AWS EC2 (AWS re/Start)
+# 📔 Documentação: Configuração de Infraestrutura Web com AWS EC2
 
 Este repositório contém minha documentação prática com a criação e o gerenciamento de uma instância EC2 na AWS, como parte das atividades do programa **AWS re/Start - Campinho Digital**.
 
